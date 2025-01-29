@@ -26,10 +26,13 @@ h1 {
 }
 
 #describe {
-  color:whitesmoke;
-  text-shadow: 3px 3px 3px black;
+  color:black;
+  text-shadow: 2px 2px 2px white;
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15pt;
+  background: rgba(0, 128, 128, .6) 
+  
 }
 /* Mis trabajos */
 
@@ -57,3 +60,7 @@ h1 {
   }
 
 }
+
+.accordion-button {
+  font-weight:bold;
+  background-color: dodgerblue;}
