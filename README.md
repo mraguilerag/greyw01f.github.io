@@ -6,9 +6,9 @@ Creado a partir de una plantilla de [gsanchezd](https://github.com/gsanchezd/) c
 ## Prueba Desafío Latam📋
 
 Como parte de la evaluación del módulo **Introducción al desarrollo web (G91)** se realizaron forkeos a los trabajos de los siguientes compañer@s
-- [Ruby](https://www.ruby-lang.org/es/) - El lenguaje utilizado
-- [Ruby on Rails](https://rubyonrails.org) - El framework web utilizado
-- [Ruby gems](https://rubygems.org) - Gestión de dependencias
+- [Fork a jvillegas36](https://github.com/greyw01f/jvillegas36.github.io)- Un fork
+- [Fork a isra-osvaldo](https://github.com/greyw01f/isra-osvaldo.github.io) - Dos fork
+
 
 ## Autor✒️
 
